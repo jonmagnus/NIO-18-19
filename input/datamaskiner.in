@@ -5,3 +5,9 @@ elektrisitet 1 jern
 katapulter 1 matematikk
 matematikk 0
 roboter 1 datamaskiner
+5
+jern 0
+datamaskiner 2 elektrisitet matematikk
+matematikk 1 jern
+elektrisitet 1 jern
+atomvåpen 1 datamaskiner
