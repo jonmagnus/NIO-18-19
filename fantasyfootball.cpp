@@ -1,8 +1,7 @@
 /* Implementer en dp-løsning med bitmask for spillerene som er med på laget
  * og et heltall for hvilken runde man er i. Husk metoden for å iterere over
  * alle delmengder med en gitt kardinalitet.
- * Score 19/100
- * Wrong answer & execution killed*/
+ * Score 100/100*/
 #include <cstdio>
 #include <cstring>
 using namespace std;
