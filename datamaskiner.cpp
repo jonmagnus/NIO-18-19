@@ -1,6 +1,5 @@
 /* Vanldig dfs-søk som returnerer antall noder den har utforsket.
- * Score 77/100
- * Wrong answer*/
+ * Score 100/100*/
 #include <cstdio>
 #include <string>
 #include <map>
