@@ -4,11 +4,11 @@
 Et eksempel på dette er `#define INF 100000000` som har omtrent samme virkning som å definere en global konstant `const int INF = 100000000;`.
 Man kan også lage mer funksjonelle macroer, som f.eks. `#define max(A,B) ((A) > (B) ? (A) : (B))` som tilsvarer
 ```Python
-	def max(A,B):
-		if (A > B):
-			return A
-		else:
-			return B
+def max(A,B):
+	if (A > B):
+		return A
+	else:
+		return B
 ```
 I slike macroer brukes en annen liten finurlighet, slik som brukes her, nemlig...
 - Den tertiære operatoren `A ? B : C` som egentlig er det samme som `B if A else C`.
